@@ -1,0 +1,8 @@
+R1: Si Odeur Alors Monstre_Bas
+R2: Si Odeur Alors Monstre_Haut
+R3: Si Odeur Alors Monstre_Droite
+R4: Si Odeur Alors Monstre_Gauche
+R5: Si Vent Alors Crevasse_Bas
+R6: Si Vent Alors Crevasse_Haut
+R7: Si Vent Alors Crevasse_Droite
+R8: Si Vent Alors Crevasse_Gauche
